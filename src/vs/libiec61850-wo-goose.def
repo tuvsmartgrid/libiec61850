@@ -521,7 +521,6 @@ EXPORTS
     CDC_SPV_create
     CDC_TMS_create
     MmsValue_getUtcTimeQuality
-    MmsConnection_getMmsConnectionParameters
     IedServer_updateVisibleStringAttributeValue
     MmsValue_setUtcTimeQuality
     MmsValue_decodeMmsData
