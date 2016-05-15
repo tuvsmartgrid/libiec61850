@@ -45,7 +45,7 @@ namespace files
             if (args.Length > 0)
                 hostname = args[0];
             else
-                hostname = "10.0.2.2";
+                hostname = "127.0.0.1";
 
             Console.WriteLine("Connect to " + hostname);
 
